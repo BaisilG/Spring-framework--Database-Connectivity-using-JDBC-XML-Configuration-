@@ -25,3 +25,4 @@ http://commons.apache.org/proper/commons-logging/download_logging.cgi
 Installing mYSQL
 
 SQL Workbench
+Understanding the Architecture
