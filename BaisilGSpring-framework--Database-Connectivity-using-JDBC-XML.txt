@@ -5,3 +5,9 @@ First we have to google in Hibernate Maven
 at https://mvnrepository.com/artifact/org.hibernate/hibernate-core
 
 repository has moved to https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core
+
+
+
+How to close unwanted project in the Eclipse EDI
+
+look on the website: https://www.viralpatel.net/hide-closed-projects-eclipse-project-explorer-view/#:~:text=Simply%20follow%20following%20steps%20and,Select%20Filters%20option%20from%20menu.&text=Now%20check%20your%20project%20explorer,the%20closed%20projects%20are%20gone!
