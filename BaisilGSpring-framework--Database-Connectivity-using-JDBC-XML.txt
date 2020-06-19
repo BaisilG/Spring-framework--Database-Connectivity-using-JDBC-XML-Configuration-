@@ -15,3 +15,5 @@ Select the unwanted projects and right click -> click close project
 if you want to permently close the project then select and in the menu of the same project explore click filter, where chech the close and save
 
 need to install the mysql too
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java
