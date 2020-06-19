@@ -5,4 +5,11 @@ where we have Java Resources ->
 	
 Web Content
 	Web-INF 
-		Lib -> the library which you would like to add here
+		Lib -> the library which you would like to add here 
+
+
+
+repo...
+https://repo.spring.io/release/org/springframework/spring/
+
+version 4.3.3 
