@@ -40,3 +40,5 @@ Adding Data Access Object (DAOs)
 Defining Beans (XML Configuration)
 
 Reading from Database
+
+Showing Information on webpage
