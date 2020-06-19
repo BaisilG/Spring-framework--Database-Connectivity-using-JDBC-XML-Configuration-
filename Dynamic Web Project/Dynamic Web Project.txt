@@ -38,3 +38,5 @@ Setting Up Project
 
 Adding Data Access Object (DAOs)
 Defining Beans (XML Configuration)
+
+Reading from Database
