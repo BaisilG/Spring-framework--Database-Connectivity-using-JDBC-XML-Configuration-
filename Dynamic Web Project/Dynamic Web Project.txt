@@ -1,1 +1,8 @@
 Dynamic Web Project 
+
+where we have Java Resources ->
+	src -> here we can add packages.
+	
+Web Content
+	Web-INF 
+		Lib -> the library which you would like to add here
