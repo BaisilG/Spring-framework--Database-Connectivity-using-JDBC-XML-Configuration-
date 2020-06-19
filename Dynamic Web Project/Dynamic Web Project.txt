@@ -34,3 +34,6 @@ Methods of Mapping
 
 Methods of Mapping(Document)
 Setting Up Project
+Setting Up Project
+
+Adding Data Access Object (DAOs)
