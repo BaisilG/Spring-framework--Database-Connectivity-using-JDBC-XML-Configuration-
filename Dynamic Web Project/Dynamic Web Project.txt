@@ -20,3 +20,6 @@ https://repo.spring.io/release/org/springframework/spring/4.3.3.RELEASE/
 Download Apache Commons 
 
 http://commons.apache.org/proper/commons-logging/download_logging.cgi
+
+
+Installing mYSQL
