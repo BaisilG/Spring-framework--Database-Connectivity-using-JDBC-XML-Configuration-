@@ -3,3 +3,5 @@ Introduction
 First we have to google in Hibernate Maven 
 
 at https://mvnrepository.com/artifact/org.hibernate/hibernate-core
+
+repository has moved to https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core
